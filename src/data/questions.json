@@ -1,0 +1,41 @@
+[
+  {
+    "id": "gender",
+    "title": "Pro koho to bude?",
+    "options": [
+      { "label": "Pro muže", "value": "man" },
+      { "label": "Pro ženy", "value": "woman" }
+    ]
+  },
+  {
+    "id": "type",
+    "title": "Jaký charakter vůně je Vám nejbližší?",
+    "options": [
+      { "label": "Květinová (jemná a romantická)", "value": "floral" },
+      { "label": "Citrusová (svěží a povzbuzující)", "value": "citrus" },
+      { "label": "Dřevitá (hluboká a ušlechtilá)", "value": "woody" },
+      { "label": "Sladká (intenzivní a hřejivá)", "value": "sweet" }
+    ]
+  },
+  {
+    "id": "occasion",
+    "title": "Pro jakou příležitost parfémy vybíráte?",
+    "options": [
+      {
+        "label": "Pro každodenní nošení (procházky, volný čas)",
+        "value": "casual"
+      },
+      { "label": "Do práce / na pracovní schůzky", "value": "work" },
+      { "label": "Pro večerní akce / rande", "value": "evening" }
+    ]
+  },
+  {
+    "id": "intensity",
+    "title": "Jakou intenzitu vůně preferujete?",
+    "options": [
+      { "label": "Lehká a nenápadná", "value": "light" },
+      { "label": "Střední (vyvážená)", "value": "medium" },
+      { "label": "Výrazná (trvalá a s dlouhou stopou)", "value": "strong" }
+    ]
+  }
+]

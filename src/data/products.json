@@ -1,0 +1,133 @@
+[
+  {
+    "id": 1,
+    "name": "Dámský parfém w102",
+    "type": "floral",
+    "gender": "woman",
+    "occasion": "evening",
+    "intensity": "strong",
+    "description": "Vášnivá květinově-zelená vůně plná emocí, ideální pro výjimečné večerní příležitosti.",
+    "price": "600 Kč",
+    "image": "/img/w.png"
+  },
+  {
+    "id": 2,
+    "name": "Dámský parfém w104",
+    "type": "citrus",
+    "gender": "woman",
+    "occasion": "casual",
+    "intensity": "light",
+    "description": "Neodolatelná vůně radosti ze života, jež vás zahalí svěžestí po celý den.",
+    "price": "600 Kč",
+    "image": "/img/w.png"
+  },
+  {
+    "id": 3,
+    "name": "Pánský parfém m003",
+    "type": "woody",
+    "gender": "man",
+    "occasion": "work",
+    "intensity": "medium",
+    "description": "Elegantní a nadčasová dřevitá kompozice pro sebevědomé pracovní dny.",
+    "price": "600 Kč",
+    "image": "/img/m.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dámský parfém w142",
+    "type": "sweet",
+    "occasion": "evening",
+    "intensity": "strong",
+    "description": "Smyslná a tajemná orientální vůně plná sladkých tónů pro nespoutané večery.",
+    "price": "600 Kč",
+    "image": "/img/w.png"
+  },
+  {
+    "id": 5,
+    "name": "Dámský parfém w110",
+    "type": "floral",
+    "gender": "woman",
+    "occasion": "casual",
+    "intensity": "light",
+    "description": "Nádherná jemná květinová vůně, která vás nadchne svou čistotou a lehkostí.",
+    "price": "600 Kč",
+    "image": "/img/w.png"
+  },
+  {
+    "id": 6,
+    "name": "Pánský parfém m025",
+    "type": "citrus",
+    "gender": "man",
+    "occasion": "work",
+    "intensity": "strong",
+    "description": "Výrazná fougérová vůně s citrusovými akcenty pro moderní a dynamické muže.",
+    "price": "600 Kč",
+    "image": "/img/m.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Pánský parfém m007",
+    "type": "woody",
+    "gender": "man",
+    "occasion": "evening",
+    "intensity": "strong",
+    "description": "Výrazná dřevitě-kořeněná vůně se santalovým dřevem, cedrem a skořicí stvořená pro silného a cílevědomého muže.",
+    "price": "600 Kč",
+    "image": "/img/m.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Pánský parfém m051",
+    "type": "woody",
+    "gender": "man",
+    "occasion": "work",
+    "intensity": "strong",
+    "description": "Elegantní a sebevědomý parfém propojující svěží bergamot s hřejivou ambrou, vanilkou a tonkou na důležité schůzky.",
+    "price": "635 Kč",
+    "image": "/img/m.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Pánský parfém m052",
+    "type": "citrus",
+    "gender": "man",
+    "occasion": "casual",
+    "intensity": "medium",
+    "description": "Svěží ranní mix citrusů, levandule a máty se skořicí a pižmem v základu, ideální společník pro volný čas.",
+    "price": "635 Kč",
+    "image": "/img/m.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Pánský parfém  m053",
+    "type": "sweet",
+    "gender": "man",
+    "occasion": "evening",
+    "intensity": "medium",
+    "description": "Jedinečný večerní koktejl citrusů spojených s karamelem, tonkou a cedrovým dřevem pro přirozený šarm.",
+    "price": "635 Kč",
+    "image": "/img/m.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Dámský parfém w105",
+    "type": "floral",
+    "gender": "woman",
+    "occasion": "work",
+    "intensity": "medium",
+    "description": "Příjemná, sofistikovaná a jemně provokující vůně, ve které se květinové tóny konvalinky a růže snoubí se svěžím ovocem.",
+    "price": "600 Kč",
+    "image": "/img/w.png"
+  },
+  {
+    "id": 12,
+    "name": "Dámský parfém w901",
+    "type": "citrus",
+    "gender": "woman",
+    "occasion": "casual",
+    "intensity": "medium",
+    "description": "Ovocně-květinová vůně magnólie podtržená intenzivními citrusovými složkami a hřejivými kořeněnými tóny v základu.",
+    "price": "600 Kč",
+    "image": "/img/w.png"
+  }
+]

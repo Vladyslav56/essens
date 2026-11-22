@@ -1,0 +1,23 @@
+@import 'tailwindcss';
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@theme {
+  --color-essens-blue: #002e5d;
+  --color-essens-pink: #db0962;
+  --color-essens-back: #ecf0f3;
+  --color-essens-black: #333;
+}
+
+@layer base {
+  body {
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    font-family: 'Roboto', sans-serif;
+  }
+}
